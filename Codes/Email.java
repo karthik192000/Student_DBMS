@@ -179,8 +179,8 @@ public class Email extends javax.swing.JFrame {
             Properties properties = new Properties();
             properties.put("mail.smtp.auth","true");
             properties.put("mail.smtp.starttls.enable", "true");
-            properties.put("mail.smtp.host","smtp.gmail.com");
-            properties.put("mail.smtp.port","587");
+            properties.put("mail.smtp.host","prefered email service");
+            properties.put("mail.smtp.port","respective emtp port");
             
             String send = txtSend.getText();
             String password = txtPass.getText();
