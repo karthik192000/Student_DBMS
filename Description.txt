@@ -1,0 +1,14 @@
+                                                  STUDENT DATABASE MANAGEMENT SYSTEM
+
+-This is Student Database Management System built on a predefined MySQL database.
+-The project has been developed such that the MySQL database can be accessed using Java
+-Records can be added/deleted/updated
+-The database email extension allows the user to send emails to email-ids existing in the database
+-The database data can be exported to an excel file.
+
+
+Following are the packages used for the development of this porject:
+1. Java Swing Package (GUI)
+2. Java Database Connectivity (JDBC) to access MySQL database using Java 
+3. Java Mail API (SMTP server) to send mails through the database
+4. Apache POI ( Java libraries to read and write Microsoft Office file formats, Excel in this case)
