@@ -1,6 +1,6 @@
                                                   STUDENT DATABASE MANAGEMENT SYSTEM
 
--This Student Database Management System built on a predefined MySQL database.
+-This Student Database Management System is built on a predefined MySQL database.
 -The project has been developed such that the MySQL database can be accessed using Java
 -Records can be added/deleted/updated
 -The database email extension allows the user to send emails to email-ids existing in the database
